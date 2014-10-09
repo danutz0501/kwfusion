@@ -10,18 +10,18 @@
  * in the /home/dynamica/_DB_BACKUPS/ directory, as an
  * .sql file for easy importing with phpMyAdmin
  */
-// require_once('/home/dynamica/_DB_BACKUPS/backup.php');
 
+// Example database names and tables, replace with your own ( see docs for more info )
 $database = array( 'backend' => 'dynamica_backend', 'demo' => 'dynamica_demo', 'leads' => 'dynamica_leads', 'lists' => 'dynamica_lists', 
 	'splash_pages' => 'dynamica_splash_pages', 'subscribe' => 'dynamica_subscribe', 'test_environment' => 'dynamica_testEnvironment', 'wp' => 'dynamica_wp' );
 
 foreach( $database as $folder => $db ) {
 
 	$mysqlDatabaseName 	= $db;
-	$mysqlUserName 		= 'dynamica_arout77';
-	$mysqlPassword 		= 'dontlose1!';
+	$mysqlUserName 		= ''; // Mysql user
+	$mysqlPassword 		= ''; // Mysql Password
 	$mysqlHostName 		= 'localhost';
-	$mysqlExportPath 	= '/home/dynamica/_DB_BACKUPS/'.$folder.'/';
+	$mysqlExportPath 	= '/home/user_name/_DB_BACKUPS/'.$folder.'/'; // Replace user_name with your own
 
 	$filename = date("Y") .'_'. date("m") .'_'.date("d") .'_'. time().'.sql';
 
