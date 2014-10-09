@@ -14,7 +14,7 @@
  * for backup files older than 31+ days, and delete them.
  *
  */
-$scan = new RecursiveDirectoryIterator('/home/dynamica/_DB_BACKUPS');
+$scan = new RecursiveDirectoryIterator('PATH_TO_BACKUP_DIR');
 
 
 foreach( new RecursiveIteratorIterator( $scan ) as $filename => $file) {
