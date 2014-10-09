@@ -1,0 +1,39 @@
+[21-Apr-2014 06:24:39 America/Chicago] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home/brightid/public_html/kwfusion.com/public/views/errors/view.php on line 6
+[21-Apr-2014 06:24:39 America/Chicago] PHP Stack trace:
+[21-Apr-2014 06:24:39 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/view.php:0
+[21-Apr-2014 06:24:39 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/brightid/public_html/kwfusion.com/public/views/errors/view.php on line 9
+[21-Apr-2014 06:24:39 America/Chicago] PHP Stack trace:
+[21-Apr-2014 06:24:39 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/view.php:0
+[26-Apr-2014 20:38:50 America/Chicago] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php on line 9
+[26-Apr-2014 20:38:50 America/Chicago] PHP Stack trace:
+[26-Apr-2014 20:38:50 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php:0
+[26-Apr-2014 20:38:50 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php on line 14
+[26-Apr-2014 20:38:50 America/Chicago] PHP Stack trace:
+[26-Apr-2014 20:38:50 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php:0
+[26-Apr-2014 22:57:56 America/Chicago] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home/brightid/public_html/kwfusion.com/public/views/errors/view.php on line 5
+[26-Apr-2014 22:57:56 America/Chicago] PHP Stack trace:
+[26-Apr-2014 22:57:56 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/view.php:0
+[26-Apr-2014 22:57:56 America/Chicago] PHP Notice:  Undefined variable: filename in /home/brightid/public_html/kwfusion.com/public/views/errors/view.php on line 8
+[26-Apr-2014 22:57:56 America/Chicago] PHP Stack trace:
+[26-Apr-2014 22:57:56 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/view.php:0
+[26-Apr-2014 22:57:56 America/Chicago] PHP Notice:  Use of undefined constant BASEURL - assumed 'BASEURL' in /home/brightid/public_html/kwfusion.com/public/views/errors/view.php on line 23
+[26-Apr-2014 22:57:56 America/Chicago] PHP Stack trace:
+[26-Apr-2014 22:57:56 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/view.php:0
+[26-Apr-2014 22:57:56 America/Chicago] PHP Notice:  Use of undefined constant BASEURL - assumed 'BASEURL' in /home/brightid/public_html/kwfusion.com/public/views/errors/view.php on line 33
+[26-Apr-2014 22:57:56 America/Chicago] PHP Stack trace:
+[26-Apr-2014 22:57:56 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/view.php:0
+[26-Apr-2014 22:57:56 America/Chicago] PHP Notice:  Use of undefined constant BASEURL - assumed 'BASEURL' in /home/brightid/public_html/kwfusion.com/public/views/errors/view.php on line 34
+[26-Apr-2014 22:57:56 America/Chicago] PHP Stack trace:
+[26-Apr-2014 22:57:56 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/view.php:0
+[27-Apr-2014 19:41:00 America/Chicago] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php on line 9
+[27-Apr-2014 19:41:00 America/Chicago] PHP Stack trace:
+[27-Apr-2014 19:41:00 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php:0
+[27-Apr-2014 19:41:00 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php on line 14
+[27-Apr-2014 19:41:00 America/Chicago] PHP Stack trace:
+[27-Apr-2014 19:41:00 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php:0
+[02-May-2014 03:05:11 America/Chicago] PHP Notice:  Use of undefined constant DEBUG - assumed 'DEBUG' in /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php on line 9
+[02-May-2014 03:05:11 America/Chicago] PHP Stack trace:
+[02-May-2014 03:05:11 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php:0
+[02-May-2014 03:05:11 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php on line 14
+[02-May-2014 03:05:11 America/Chicago] PHP Stack trace:
+[02-May-2014 03:05:11 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/errors/controller.php:0

@@ -1,0 +1,43 @@
+{
+    "require": {
+    "raveren/kint": "0.9",
+    "phpmailer/phpmailer": "5.2.*",
+	"phpclasses/vs-template-docx": ">=1",
+    "dreamfactory/oasys": "0.4.*"
+    },
+   "repositories":
+   [
+    {
+      "type": "composer",
+      "url": "http:\/\/www.phpclasses.org\/"
+    },
+    {
+      "packagist": false
+    }
+   ],
+    "autoload": {
+		"psr-4": {
+		"Fusion\\System\\": "vendor/Fusion/System",
+		"Fusion\\Config\\": "vendor/Fusion/Config",
+		"Fusion\\Database\\": "vendor/Fusion/Database",
+		"Fusion\\Toolbox\\": "vendor/Fusion/Toolbox"
+		}
+	}
+}
+
+{
+  "require":
+  {
+    "phpclasses/vs-template-docx": ">=1"
+  },
+  "repositories":
+  [
+    {
+      "type": "composer",
+      "url": "http:\/\/www.phpclasses.org\/"
+    },
+    {
+      "packagist": false
+    }
+  ]
+}

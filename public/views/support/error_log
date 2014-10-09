@@ -1,0 +1,15 @@
+[19-Apr-2014 07:45:12 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/brightid/public_html/kwfusion.com/public/views/support/index.php on line 3
+[19-Apr-2014 07:45:12 America/Chicago] PHP Stack trace:
+[19-Apr-2014 07:45:12 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/support/index.php:0
+[19-Apr-2014 16:49:30 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/brightid/public_html/kwfusion.com/public/views/support/index.php on line 3
+[19-Apr-2014 16:49:30 America/Chicago] PHP Stack trace:
+[19-Apr-2014 16:49:30 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/support/index.php:0
+[26-Apr-2014 21:23:32 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/brightid/public_html/kwfusion.com/public/views/support/index.php on line 3
+[26-Apr-2014 21:23:32 America/Chicago] PHP Stack trace:
+[26-Apr-2014 21:23:32 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/support/index.php:0
+[27-Apr-2014 19:57:32 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/brightid/public_html/kwfusion.com/public/views/support/index.php on line 3
+[27-Apr-2014 19:57:32 America/Chicago] PHP Stack trace:
+[27-Apr-2014 19:57:32 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/support/index.php:0
+[02-May-2014 06:17:24 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/brightid/public_html/kwfusion.com/public/views/support/index.php on line 3
+[02-May-2014 06:17:24 America/Chicago] PHP Stack trace:
+[02-May-2014 06:17:24 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/views/support/index.php:0

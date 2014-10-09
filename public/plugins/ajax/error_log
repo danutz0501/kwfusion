@@ -1,0 +1,126 @@
+[01-May-2014 00:43:19 America/Chicago] PHP Fatal error:  Class 'Application' not found in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 4
+[01-May-2014 00:43:19 America/Chicago] PHP Stack trace:
+[01-May-2014 00:43:19 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 00:43:40 America/Chicago] PHP Fatal error:  Class 'Application' not found in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 4
+[01-May-2014 00:43:40 America/Chicago] PHP Stack trace:
+[01-May-2014 00:43:40 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 00:44:39 America/Chicago] PHP Notice:  Use of undefined constant SYSTEM_PATH - assumed 'SYSTEM_PATH' in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 3
+[01-May-2014 00:44:39 America/Chicago] PHP Stack trace:
+[01-May-2014 00:44:39 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 00:44:39 America/Chicago] PHP Warning:  require_once(SYSTEM_PATHDatabase/Database.php): failed to open stream: No such file or directory in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 3
+[01-May-2014 00:44:39 America/Chicago] PHP Stack trace:
+[01-May-2014 00:44:39 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 00:44:39 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'SYSTEM_PATHDatabase/Database.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 3
+[01-May-2014 00:44:39 America/Chicago] PHP Stack trace:
+[01-May-2014 00:44:39 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 00:46:12 America/Chicago] PHP Warning:  require_once(/../../../vendor/Fusion/Database/Database.php): failed to open stream: No such file or directory in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 3
+[01-May-2014 00:46:12 America/Chicago] PHP Stack trace:
+[01-May-2014 00:46:12 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 00:46:12 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/../../../vendor/Fusion/Database/Database.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 3
+[01-May-2014 00:46:12 America/Chicago] PHP Stack trace:
+[01-May-2014 00:46:12 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 00:46:37 America/Chicago] PHP Fatal error:  Class 'Application' not found in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 23
+[01-May-2014 00:46:37 America/Chicago] PHP Stack trace:
+[01-May-2014 00:46:37 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 00:46:37 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 00:47:37 America/Chicago] PHP Fatal error:  Class 'Application' not found in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 23
+[01-May-2014 00:47:37 America/Chicago] PHP Stack trace:
+[01-May-2014 00:47:37 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 00:47:37 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:09:10 America/Chicago] PHP Fatal error:  Class 'Application' not found in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 23
+[01-May-2014 10:09:10 America/Chicago] PHP Stack trace:
+[01-May-2014 10:09:10 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:09:10 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:51:02 America/Chicago] PHP Fatal error:  Class 'Application' not found in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 23
+[01-May-2014 10:51:02 America/Chicago] PHP Stack trace:
+[01-May-2014 10:51:02 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:51:02 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:51:32 America/Chicago] PHP Fatal error:  Class 'Application' not found in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 23
+[01-May-2014 10:51:32 America/Chicago] PHP Stack trace:
+[01-May-2014 10:51:32 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:51:32 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:53:52 America/Chicago] PHP Warning:  require_once(/../System/Registry.php): failed to open stream: No such file or directory in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:53:52 America/Chicago] PHP Stack trace:
+[01-May-2014 10:53:52 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:53:52 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:53:52 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/../System/Registry.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:53:52 America/Chicago] PHP Stack trace:
+[01-May-2014 10:53:52 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:53:52 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:54:13 America/Chicago] PHP Warning:  require_once(../System/Registry.php): failed to open stream: No such file or directory in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:54:13 America/Chicago] PHP Stack trace:
+[01-May-2014 10:54:13 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:54:13 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:54:13 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../System/Registry.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:54:13 America/Chicago] PHP Stack trace:
+[01-May-2014 10:54:13 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:54:13 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:55:03 America/Chicago] PHP Notice:  Use of undefined constant SYSTEM_PATH - assumed 'SYSTEM_PATH' in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:55:03 America/Chicago] PHP Stack trace:
+[01-May-2014 10:55:03 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:55:03 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:55:03 America/Chicago] PHP Warning:  require_once(SYSTEM_PATHRegistry.php): failed to open stream: No such file or directory in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:55:03 America/Chicago] PHP Stack trace:
+[01-May-2014 10:55:03 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:55:03 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:55:03 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'SYSTEM_PATHRegistry.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:55:03 America/Chicago] PHP Stack trace:
+[01-May-2014 10:55:03 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:55:03 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:55:19 America/Chicago] PHP Warning:  require_once(Registry.php): failed to open stream: No such file or directory in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:55:19 America/Chicago] PHP Stack trace:
+[01-May-2014 10:55:19 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:55:19 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:55:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Registry.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:55:19 America/Chicago] PHP Stack trace:
+[01-May-2014 10:55:19 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:55:19 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:55:57 America/Chicago] PHP Warning:  require(../System/Registry.php): failed to open stream: No such file or directory in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:55:57 America/Chicago] PHP Stack trace:
+[01-May-2014 10:55:57 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:55:57 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:55:57 America/Chicago] PHP Fatal error:  require(): Failed opening required '../System/Registry.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:55:57 America/Chicago] PHP Stack trace:
+[01-May-2014 10:55:57 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:55:57 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:56:22 America/Chicago] PHP Warning:  dir(../System/Registry.php): failed to open dir: No such file or directory in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:56:22 America/Chicago] PHP Stack trace:
+[01-May-2014 10:56:22 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:56:22 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:56:22 America/Chicago] PHP   3. dir() /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php:24
+[01-May-2014 10:56:22 America/Chicago] PHP Warning:  require(): Filename cannot be empty in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:56:22 America/Chicago] PHP Stack trace:
+[01-May-2014 10:56:22 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:56:22 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:56:22 America/Chicago] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:56:22 America/Chicago] PHP Stack trace:
+[01-May-2014 10:56:22 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:56:22 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:56:35 America/Chicago] PHP Warning:  require(../System): failed to open stream: No such file or directory in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:56:35 America/Chicago] PHP Stack trace:
+[01-May-2014 10:56:35 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:56:35 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:56:35 America/Chicago] PHP Fatal error:  require(): Failed opening required '../System' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:56:35 America/Chicago] PHP Stack trace:
+[01-May-2014 10:56:35 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:56:35 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:56:50 America/Chicago] PHP Warning:  require(/../System): failed to open stream: No such file or directory in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:56:50 America/Chicago] PHP Stack trace:
+[01-May-2014 10:56:50 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:56:50 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:56:50 America/Chicago] PHP Fatal error:  require(): Failed opening required '/../System' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/brightid/public_html/kwfusion.com/vendor/Fusion/Database/Database.php on line 24
+[01-May-2014 10:56:50 America/Chicago] PHP Stack trace:
+[01-May-2014 10:56:50 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:56:50 America/Chicago] PHP   2. require_once() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:3
+[01-May-2014 10:57:47 America/Chicago] PHP Notice:  Undefined index: zip in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 6
+[01-May-2014 10:57:47 America/Chicago] PHP Stack trace:
+[01-May-2014 10:57:47 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:57:47 America/Chicago] PHP Notice:  Undefined variable: sql in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 9
+[01-May-2014 10:57:47 America/Chicago] PHP Stack trace:
+[01-May-2014 10:57:47 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:57:47 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 9
+[01-May-2014 10:57:47 America/Chicago] PHP Stack trace:
+[01-May-2014 10:57:47 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0
+[01-May-2014 10:58:42 America/Chicago] PHP Notice:  Undefined index: zip in /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php on line 6
+[01-May-2014 10:58:42 America/Chicago] PHP Stack trace:
+[01-May-2014 10:58:42 America/Chicago] PHP   1. {main}() /home/brightid/public_html/kwfusion.com/public/plugins/ajax/get_city.php:0

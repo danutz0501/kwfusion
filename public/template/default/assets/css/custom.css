@@ -1,0 +1,23 @@
+/** Text colors **/
+.white {
+	color: white;
+}
+.yellow {
+	color: #F0AD4E;
+}
+.red {
+	color: #D9534F;
+}
+.green {
+	color: #0C3;	
+}
+.lightblue {
+	color: #6CF;
+}
+.darkblue {
+	color: #146794;
+}
+
+.wiz-header {
+	padding-bottom: -30px !important;	
+}
