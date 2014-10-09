@@ -10,7 +10,7 @@
  *
  * === Program flow ===
  *
- * Scan all backup folders contained in /home/dynamica/_DB_BACKUPS
+ * Scan all backup folders contained in backup folder
  * for backup files older than 31+ days, and delete them.
  *
  */
