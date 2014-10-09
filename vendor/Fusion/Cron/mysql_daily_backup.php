@@ -21,7 +21,7 @@ foreach( $database as $folder => $db ) {
 	$mysqlUserName 		= ''; // Mysql user
 	$mysqlPassword 		= ''; // Mysql Password
 	$mysqlHostName 		= 'localhost';
-	$mysqlExportPath 	= '/home/user_name/_DB_BACKUPS/'.$folder.'/'; // Replace user_name with your own
+	$mysqlExportPath 	= '/home/user_name/_DB_BACKUPS/'.$folder.'/'; // Replace user_name with your own, or define custom path here
 
 	$filename = date("Y") .'_'. date("m") .'_'.date("d") .'_'. time().'.sql';
 
