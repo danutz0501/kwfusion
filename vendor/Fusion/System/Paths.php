@@ -39,6 +39,17 @@ define('TEMPLATE_URL', $config->setting['template_url']);
 * Third party / plugins
 */
 define('PLUGINS_DIR', PUBLIC_PATH.'plugins/');
+define('PLUGINS_URL', BASEURL.'public/plugins/');
+
+/**
+* Cache dir
+*/
+define('CACHE_DIR', PUBLIC_PATH.'cache/');
+
+/**
+* User created documents / text files
+*/
+define('DOCS_DIR', CACHE_DIR.'documents/');
 
 /**
 * Maxmind GeoIP directory

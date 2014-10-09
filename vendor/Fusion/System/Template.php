@@ -26,8 +26,9 @@ class Template{
 	
 	public function header()
 	{
-		if( is_readable(TEMPLATE_BASE_PATH.'header.php') )
+		if( is_readable(TEMPLATE_BASE_PATH.'header.php') ) {
 			require_once TEMPLATE_BASE_PATH.'header.php';
+		}
 		else
 			$this->load->view('error/template_header');
 	}

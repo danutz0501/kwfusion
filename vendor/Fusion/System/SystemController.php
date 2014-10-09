@@ -22,11 +22,12 @@ class SystemController {
 	protected 	$action;
 	protected 	$config;
 	protected 	$data;
-	// public 		$session;
+	public 		$session;
 	public 		$helper;
 	// Input sanitation class
 	public 		$input;
 	public 		$cache;
+	public      $toolbox;
 	
 	public function __construct( \Fusion\Config\Config $config, Router $route, SystemModel $model, SystemView $view ) {
 		
@@ -35,8 +36,8 @@ class SystemController {
 		$this->route = $route;
 		$this->model = $model;
 		$this->view = $view;
-		$this->data = $route;
-		// $this->session = self::session();
+		// $this->data = $route;
+		$this->session = self::session();
 		$this->input = self::input();
 		$this->cache = self::cache();
 	}
@@ -95,7 +96,7 @@ class SystemController {
 
 	public function input() {
 
-		return \Toolbox::helper('Input');
+		return \Toolbox::helper('Sanitize');
 	}
 
 	public function model($model)

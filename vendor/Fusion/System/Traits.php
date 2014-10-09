@@ -171,7 +171,7 @@ trait Account {
 	function login_validate() {
 
 		// Begin form validation by sanitizing all $_POST submitted
-		$form = $this->input->sanitize->form($_POST);
+		$form = $this->toolbox('Sanitize')->form($_POST);
 
 		// Now we can check the submitted form to see if it is filled out properly
 		$check_if_valid = $this->input->validate->form($form, array(
@@ -217,7 +217,7 @@ trait Account {
 		 * as the lookup index.
 		 *
 		 */
-		$form = $this->input->sanitize->form($_POST);
+		$form = $this->toolbox('Sanitize')->form($_POST);
 		
 		$q = "SELECT username, email, password FROM users WHERE email = ?";
 		$result = $this->db->prepare($q);
@@ -290,7 +290,7 @@ trait Account {
 		
 		if($_POST) {
 			// New password submitted
-			$form = $this->input->sanitize->form($_POST);
+			$form = $this->toolbox('Sanitize')->form($_POST);
 			$this->model('Member')->update_password($_POST['password'], $row['email']);
 			$this->redirect('member/login/password_reset_complete');
 		}
@@ -311,7 +311,7 @@ trait Account {
 	function signup_validate() {
 		
 		// Begin form validation by sanitizing all $_POST submitted
-		$form = $this->input->sanitize->form($_POST);
+		$form = $this->toolbox('Sanitize')->form($_POST);
 		
 		/**
 		 * Now set validation rules for each field.

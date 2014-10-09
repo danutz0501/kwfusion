@@ -178,3 +178,15 @@ Toolbox::register("Environment", function() {
 	
 	return new Fusion\Toolbox\Environment;
 });
+
+// Build Validation helper
+\Toolbox::register('Email', function() {
+	
+	return new Email;
+});
+
+// Build Validation helper
+\Toolbox::register('Performance', function() {
+	
+	return new Fusion\Toolbox\Performance;
+});
